@@ -1,0 +1,23 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  background-color: #1a1a1a;
+}
+
+.banner h1 {
+  color: #d4af37;
+  font-size: 70px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  -webkit-text-stroke: 3px black;
+    text-stroke: 3px black;
+}
+
+.banner p {
+  color: #000000;
+  opacity: 0.85;
+  font-size: 30px;
+  line-height: 1.6;
+  -webkit-text-stroke: 1px gold;
+    text-stroke: 1px gold;
+}
